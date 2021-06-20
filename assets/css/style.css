@@ -198,6 +198,9 @@ a {
   position: relative;
   transition: 0.3s linear;
 }
+.footerflex{
+  display: flex;
+}
 @media screen and (max-width: 700px) {
   .links {
     height: 100vh;

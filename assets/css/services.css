@@ -27,10 +27,13 @@ ul {
   .grid {
     grid-template-columns: 1fr;
   }
-  .chair{
+  .chair {
     margin-top: 30px;
   }
   .showcase {
     height: 30vh;
+  }
+  .footerflex {
+    display: flex;
   }
 }

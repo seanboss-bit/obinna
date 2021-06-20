@@ -54,4 +54,7 @@
   .flexit {
     grid-template-columns: repeat(2,1fr);
   }
+  .footerflex{
+    display: flex;
+  }
 }
